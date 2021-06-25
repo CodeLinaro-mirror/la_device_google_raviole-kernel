@@ -62605,13 +62605,13 @@ ffffffc81230b808 D kallsyms_markers
 ffffffc81230c030 D kallsyms_token_table
 ffffffc81230c3f8 D kallsyms_token_index
 ffffffc812313333 d hci_reset_dev.hw_err
-ffffffc812342a1f d max_tt_usecs
-ffffffc81235e4ad d ptychar
+ffffffc8123429ed d max_tt_usecs
+ffffffc81235e47b d ptychar
 ffffffc812369f95 d task_index_to_char.state_char
 ffffffc812369f95 d task_index_to_char.state_char
 ffffffc812369f95 d task_index_to_char.state_char
 ffffffc812377637 d trunc_msg
-ffffffc812398e9e d f_midi_shortname
+ffffffc812398ee6 d f_midi_shortname
 ffffffc8123cae69 d f_midi_longname
 ffffffc8123f1198 d slot_type_char
 ffffffc8123f119c d HIDPP_FF_CONDITION_CMDS

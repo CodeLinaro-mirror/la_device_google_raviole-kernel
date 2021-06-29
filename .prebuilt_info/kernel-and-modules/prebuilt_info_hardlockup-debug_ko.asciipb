@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7502591"
+    build_id: "7505952"
     target: "slider_gki"
     source_file: "hardlockup-debug.ko"
   }

@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7534149"
+    build_id: "7543099"
     target: "slider_gki_kasan"
     source_file: "ftm5.ko"
   }
   dest_file: "kasan/ftm5.ko"
-  version: "Linux version 5.10.43-android12-7-00321-g850f11aa85f0-ab7499198 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Sat Jun 26 06:58:35 UTC 2021"
+  version: "Linux version 5.10.43-android12-8-00018-g25c7eb4932e9-ab7536294 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri Jul 9 18:34:15 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }

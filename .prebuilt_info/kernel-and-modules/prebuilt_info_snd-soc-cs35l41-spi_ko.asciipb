@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7545488"
+    build_id: "7547608"
     target: "slider_gki"
     source_file: "snd-soc-cs35l41-spi.ko"
   }

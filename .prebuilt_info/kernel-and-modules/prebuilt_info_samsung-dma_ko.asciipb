@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7570846"
+    build_id: "7573149"
     target: "slider_gki"
     source_file: "samsung-dma.ko"
   }

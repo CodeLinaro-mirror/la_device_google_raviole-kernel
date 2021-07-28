@@ -60458,7 +60458,7 @@ ffffffc812075a28 D kallsyms_names
 ffffffc812222dd8 D kallsyms_markers
 ffffffc8122235b0 D kallsyms_token_table
 ffffffc812223968 D kallsyms_token_index
-ffffffc81222a94a d hci_reset_dev.hw_err
+ffffffc81222a9d2 d hci_reset_dev.hw_err
 ffffffc812258d7a d max_tt_usecs
 ffffffc812273e29 d ptychar
 ffffffc81227f304 d task_index_to_char.state_char

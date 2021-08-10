@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7625750"
+    build_id: "7628317"
     target: "slider_gki_kasan"
     source_file: "cfg80211.ko"
   }

@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7619603"
+    build_id: "7625080"
     target: "slider_gki"
     source_file: "boot.img"
   }

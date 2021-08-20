@@ -60469,7 +60469,7 @@ ffffffc81227f7ac d task_index_to_char.state_char
 ffffffc81227f7ac d task_index_to_char.state_char
 ffffffc81228ca1c d trunc_msg
 ffffffc8122adae4 d f_midi_shortname
-ffffffc8122df15d d f_midi_longname
+ffffffc8122df191 d f_midi_longname
 ffffffc812304cc8 d slot_type_char
 ffffffc812304ccc d HIDPP_FF_CONDITION_CMDS
 ffffffc812304cd0 d lowpan_ttl_values

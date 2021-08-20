@@ -60365,7 +60365,7 @@ ffffffc0121026cd d task_index_to_char.state_char.9557
 ffffffc012110903 d trunc_msg
 ffffffc0121192dd d show_irq_gap.zeros
 ffffffc012134282 d f_midi_shortname
-ffffffc01216a750 d f_midi_longname
+ffffffc01216a784 d f_midi_longname
 ffffffc0121ae0c8 d str__initcall__trace_system_name
 ffffffc0121ae0d1 d __param_str_initcall_debug
 ffffffc0121ae0e0 D linux_banner

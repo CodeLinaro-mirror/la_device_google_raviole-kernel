@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7744383"
+    build_id: "7756099"
     target: "slider_gki"
     source_file: "s2mpg10-powermeter.ko"
   }

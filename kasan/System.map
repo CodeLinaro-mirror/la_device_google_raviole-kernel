@@ -60466,9 +60466,9 @@ ffffffc81227413b d ptychar
 ffffffc81227f616 d task_index_to_char.state_char
 ffffffc81227f616 d task_index_to_char.state_char
 ffffffc81227f616 d task_index_to_char.state_char
-ffffffc81228c886 d trunc_msg
-ffffffc8122ad94e d f_midi_shortname
-ffffffc8122df016 d f_midi_longname
+ffffffc81228c8ba d trunc_msg
+ffffffc8122ad9a0 d f_midi_shortname
+ffffffc8122df060 d f_midi_longname
 ffffffc812304b98 d slot_type_char
 ffffffc812304b9c d HIDPP_FF_CONDITION_CMDS
 ffffffc812304ba0 d lowpan_ttl_values

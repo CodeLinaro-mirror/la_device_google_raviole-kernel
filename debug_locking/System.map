@@ -60695,10 +60695,10 @@ ffffffc0120bb80e d hci_reset_dev.hw_err
 ffffffc0120ee6d7 d max_tt_usecs
 ffffffc01210c3ac d ptychar
 ffffffc01211907d d task_index_to_char.state_char.10310
-ffffffc01212726e d trunc_msg
-ffffffc01212fd31 d show_irq_gap.zeros
-ffffffc01214b03d d f_midi_shortname
-ffffffc012181bc9 d f_midi_longname
+ffffffc0121272a2 d trunc_msg
+ffffffc01212fd65 d show_irq_gap.zeros
+ffffffc01214b08f d f_midi_shortname
+ffffffc012181c13 d f_midi_longname
 ffffffc0121c5ba4 d str__initcall__trace_system_name
 ffffffc0121c5bad d __param_str_initcall_debug
 ffffffc0121c5bbc D linux_banner

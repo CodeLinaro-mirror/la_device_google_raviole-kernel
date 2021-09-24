@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7756686"
+    build_id: "7761032"
     target: "slider_gki_debug_api"
     source_file: "i2c-exynos5.ko"
   }

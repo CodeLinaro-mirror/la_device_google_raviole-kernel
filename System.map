@@ -63468,11 +63468,11 @@ ffffffc0122bc258 D kallsyms_token_table
 ffffffc0122bc608 D kallsyms_token_index
 ffffffc0122c353e d hci_reset_dev.hw_err
 ffffffc0122f28de d max_tt_usecs
-ffffffc01230e47b d ptychar
+ffffffc01230e4bb d ptychar
 ffffffc01231a641 d task_index_to_char.state_char.8635
 ffffffc012327a49 d trunc_msg
 ffffffc01232fb15 d show_irq_gap.zeros
-ffffffc0123491b9 d f_midi_shortname
+ffffffc012349187 d f_midi_shortname
 ffffffc01237be88 d f_midi_longname
 ffffffc0123bda78 d str__initcall__trace_system_name
 ffffffc0123bda81 d __param_str_initcall_debug

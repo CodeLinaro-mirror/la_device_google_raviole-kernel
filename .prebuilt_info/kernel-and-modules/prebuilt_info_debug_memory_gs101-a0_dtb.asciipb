@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7808090"
+    build_id: "7812468"
     target: "slider_gki_debug_memory"
     source_file: "gs101-a0.dtb"
   }

@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "7792871"
+    build_id: "7819275"
     target: "slider_gki_debug_api"
     source_file: "exynos-adv-tracer.ko"
   }

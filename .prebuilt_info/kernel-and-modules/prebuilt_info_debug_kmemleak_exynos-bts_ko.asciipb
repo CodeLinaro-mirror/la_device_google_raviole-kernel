@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7836501"
+    build_id: "7839407"
     target: "slider_gki_debug_kmemleak"
     source_file: "exynos-bts.ko"
   }
   dest_file: "debug_kmemleak/exynos-bts.ko"
-  version: "Linux version 5.10.73-android13-0-01175-gdce01e66f717-ab7836501 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Wed Oct 13 16:50:36 UTC 2021"
+  version: "Linux version 5.10.73-android13-0-01175-gdce01e66f717-ab7839407 (build-user@build-host) (Android (7685531, based on r433403) clang version 13.0.2 (https://android.googlesource.com/toolchain/llvm-project d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c), LLD 13.0.2 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld d3e1bef2bc2bdec355d4fd0163aeb0aabbe4b66c)) #1 SMP PREEMPT Wed Oct 13 16:50:36 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }

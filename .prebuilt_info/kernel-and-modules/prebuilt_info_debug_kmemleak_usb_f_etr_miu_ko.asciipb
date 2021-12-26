@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7924165"
+    build_id: "7967544"
     target: "slider_gki_debug_kmemleak"
     source_file: "usb_f_etr_miu.ko"
   }
   dest_file: "debug_kmemleak/usb_f_etr_miu.ko"
-  version: "Linux version 5.10.43-android12-9-00001-gece338aaa6b4-ab7845872 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Oct 21 17:46:29 UTC 2021"
+  version: "Linux version 5.10.43-android12-9-00005-g740f7fbe5f39-ab7943734 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon Nov 22 13:49:23 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }

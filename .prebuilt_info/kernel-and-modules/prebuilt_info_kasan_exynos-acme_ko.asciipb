@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8095363"
+    build_id: "8102286"
     target: "slider_gki_kasan"
     source_file: "exynos-acme.ko"
   }
   dest_file: "kasan/exynos-acme.ko"
-  version: "Linux version 5.10.91-android13-0-00271-g973230a4ca1d-ab8095363 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Mon Jan 17 07:53:42 UTC 2022"
+  version: "Linux version 5.10.91-android13-0-00271-g973230a4ca1d-ab8102286 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Mon Jan 17 07:53:42 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }

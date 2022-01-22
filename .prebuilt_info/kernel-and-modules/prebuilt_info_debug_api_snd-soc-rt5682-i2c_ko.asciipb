@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8083457"
+    build_id: "8102286"
     target: "slider_gki_debug_api"
     source_file: "snd-soc-rt5682-i2c.ko"
   }
   dest_file: "debug_api/snd-soc-rt5682-i2c.ko"
-  version: "Linux version 5.10.90-android13-0-00100-ga5f73082c636-ab8083457 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Tue Jan 11 00:26:44 UTC 2022"
+  version: "Linux version 5.10.91-android13-0-00271-g973230a4ca1d-ab8102286 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Mon Jan 17 07:53:42 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }

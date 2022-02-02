@@ -102519,7 +102519,7 @@ ffffffc0122dda0b d hci_reset_dev.hw_err
 ffffffc01230d8a9 d max_tt_usecs
 ffffffc012329a9f d ptychar
 ffffffc012335f36 d task_index_to_char.state_char.8868
-ffffffc012343676 d trunc_msg
+ffffffc0123436be d trunc_msg
 ffffffc01234b7dd d show_irq_gap.zeros
 ffffffc0123655c7 d f_midi_shortname
 ffffffc01239901c d f_midi_longname

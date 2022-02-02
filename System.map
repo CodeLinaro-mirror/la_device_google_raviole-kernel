@@ -93900,7 +93900,7 @@ ffffffc012230347 d hci_reset_dev.hw_err
 ffffffc0122609d0 d max_tt_usecs
 ffffffc01227d480 d ptychar
 ffffffc0122896b7 d task_index_to_char.state_char.8740
-ffffffc012296c99 d trunc_msg
+ffffffc012296ce1 d trunc_msg
 ffffffc01229eddd d show_irq_gap.zeros
 ffffffc0122b8848 d f_midi_shortname
 ffffffc0122eb228 d f_midi_longname

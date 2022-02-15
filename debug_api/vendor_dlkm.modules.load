@@ -2,6 +2,8 @@ kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/regulator/slg51000-regulator.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
+kernel/drivers/pps/clients/pps-gpio.ko
+kernel/drivers/pps/pps_core.ko
 kernel/drivers/hwtracing/coresight/coresight.ko
 kernel/drivers/hwtracing/coresight/coresight-tmc.ko
 kernel/drivers/hwtracing/coresight/coresight-funnel.ko

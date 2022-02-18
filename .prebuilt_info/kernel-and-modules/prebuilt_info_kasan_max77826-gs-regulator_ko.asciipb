@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8167210"
+    build_id: "8192763"
     target: "slider_gki_kasan"
     source_file: "max77826-gs-regulator.ko"
   }

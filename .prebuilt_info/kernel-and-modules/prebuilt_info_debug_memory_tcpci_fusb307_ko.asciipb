@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8182437"
+    build_id: "8542264"
     target: "slider_gki_debug_memory"
     source_file: "tcpci_fusb307.ko"
   }
   dest_file: "debug_memory/tcpci_fusb307.ko"
-  version: "Linux version 5.10.98-android13-0-00003-g6ea688a79989-ab8182437 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Tue Feb 8 00:20:26 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00206-g4dce9d7a65b1-ab8534322 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue May 3 09:14:34 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
